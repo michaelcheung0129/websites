@@ -1,22 +1,36 @@
 body{
-    margin: 0;
-    padding:0;
-    border: 0;
+
     background-color: #CCAE6C;
+    font-family: 'Josefin Sans', sans-serif;
+    
 }
 
+
+
 #left{
+    
     text-align: left;
     font-size: 20px;
+    
+}
+
+.hr{
+
+background-color: black;
+height: 1px;
+border: none;
+margin-top: 20px;
 }
 
 h1{
-    margin: 0;
-    padding: 0;
-    border: 0;
+    
+    font-family: 'Sacramento', cursive;    
+    text-align: center;
 }
 
 .top-container{
+    position:relative;
+    margin-top: 40px;
     height: 50px;
 }
 
@@ -24,12 +38,11 @@ h1{
     font-size: 20px;
     display: inline-block;
     position: absolute;
-    left: 80%;
-    
+    right: 30px;
 }
 
 .nameTag{
-
+    text-align: center;
 }
 
 #program{
