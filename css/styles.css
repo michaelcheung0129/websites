@@ -1,7 +1,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: #A38A00;
+    background-color: #F7EFE5;
     font-family: 'Josefin Sans', sans-serif;
     
 }
@@ -10,7 +10,7 @@ body{
 
 #left{
     text-align: left;
-    font-size: 20px;
+    font-size: 1.25rem;
     
 }
 
@@ -23,24 +23,23 @@ margin-top: 0px;
 }
 
 h1{
-    
+    font-size: 2.5rem;
     font-family: 'Sacramento', cursive;    
     text-align: center;
 }
 
 .top-container{
     position:relative;
-    height: 20px;
-    background-color: #D1B000;
+    height: 1.25rem;
+    background-color: #D7E9B9;
     padding: 30px;
     
 }
 p{
-    margin-top:00px;
     margin-bottom:30px;
 }
 .element{
-    font-size: 20px;
+    font-size: 1.25rem;
     display: inline-block;
     position: absolute;
     right: 30px;
@@ -88,7 +87,7 @@ p{
 
 .welcome{
     text-align: center;
-    font-size: 20px;
+    font-size: 1.25rem;
     margin-bottom: 20px;
     margin-top: 20px;
 }
