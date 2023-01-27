@@ -50,6 +50,7 @@ p{
 }
 
 #program{
+    margin-top:100px;
     height:200px;
     width: 400px;
     margin-bottom: 30px;
@@ -82,7 +83,10 @@ p{
 }
 
 .brief-intro{
-
+    text-align: center;
+    width: 70%;
+    position:absolute;
+    left: 15%;
 }
 
 .welcome{
