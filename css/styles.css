@@ -9,9 +9,10 @@ body{
 
 
 #left{
+    display: inline-block;
     text-align: left;
     font-size: 1.25rem;
-    
+
 }
 
 .hr{
@@ -50,10 +51,9 @@ p{
 }
 
 #program{
-    margin-top:100px;
     height:200px;
     width: 400px;
-    margin-bottom: 30px;
+    margin: auto auto 30px auto;
 }
 
 #javascript{
@@ -83,10 +83,10 @@ p{
 }
 
 .brief-intro{
-    text-align: center;
-    width: 70%;
-    position:absolute;
-    left: 15%;
+    text-align: left;
+    margin: 20px auto 20px auto;
+    width: 40%;
+    line-height: 1.5;
 }
 
 .welcome{
